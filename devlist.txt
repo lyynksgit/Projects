@@ -1,0 +1,394 @@
+ROOT\LEGACY_WFPLWF\0000\
+    Name: WFP Lightweight Filter
+    Driver is running.
+ROOT\LEGACY_RSPNDR\0000
+    Name: Link-Layer Topology Discovery Responder
+    Driver is running.
+ROOT\LEGACY_MSISADRV\0000
+    Name: msisadrv
+    Driver is running.
+ROOT\LEGACY_DXGKRNL\0000
+    Name: LDDM Graphics Subsystem
+    Driver is running.
+PCI\VEN_10EC&DEV_8176&SUBSYS_11391A3B&REV_01\019181FEFF4CE00000
+    Name: Realtek RTL8188CE Wireless LAN 802.11n PCI-E NIC
+    Driver is running.
+ACPI\PNP0100\4&16CFE3E0&0
+    Name: System timer
+    Device is currently stopped.
+ROOT\LEGACY_WUDFPF\0000
+    Name: User Mode Driver Frameworks Platform Driver
+    Driver is running.
+PCI\VEN_8086&DEV_1C16&SUBSYS_11471043&REV_B5\3&11583659&2&E3
+    Name: Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 4 - 1C16
+    Driver is running.
+ROOT\LEGACY_SECDRV\0000
+    Name: Security Driver
+    Driver is running.
+HDAUDIO\FUNC_01&VEN_10EC&DEV_0269&SUBSYS_10431B43&REV_1001\4&391702B0&0&0001
+    Name: Realtek High Definition Audio
+    Driver is running.
+USB\VID_13D3&PID_5710\0X0001
+    Name: USB Composite Device
+    Driver is running.
+ROOT\MSSMBIOS\0000
+    Name: Microsoft System Management BIOS Driver
+    Driver is running.
+ACPI\PNP0103\0
+    Name: High precision event timer
+    Device is currently stopped.
+ROOT\LEGACY_SPLDR\0000
+    Name: Security Processor Loader Driver
+    Driver is running.
+STORAGE\VOLUME\{A7D03D92-E01B-11E0-9887-806E6F6E6963}#00000034D3A00000
+    Name: Generic volume
+    Driver is running.
+ROOT\LEGACY_NATIVEWIFIP\0000
+    Name: NativeWiFi Filter
+    Driver is running.
+ACPI\PNP0200\4&16CFE3E0&0
+    Name: Direct memory access controller
+    Device is currently stopped.
+ROOT\MS_AGILEVPNMINIPORT\0000
+    Name: WAN Miniport (IKEv2)
+    Driver is running.
+USB\VID_13D3&PID_5710&MI_00\7&D317257&0&0000
+    Name: USB2.0 UVC VGA WebCam
+    Driver is running.
+PCI\VEN_1969&DEV_1083&SUBSYS_18511043&REV_C0\FF0325135404A6FF00
+    Name: Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.20)
+    Driver is running.
+PCI\VEN_8086&DEV_1C1A&SUBSYS_11471043&REV_B5\3&11583659&2&E5
+    Name: Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 6 - 1C1A
+    Driver is running.
+ROOT\LEGACY_NDIS\0000
+    Name: NDIS System Driver
+    Driver is running.
+ACPI\PNP0303\4&16CFE3E0&0
+    Name: Keyboard Device Filter
+    Driver is running.
+ROOT\*ISATAP\0000
+    Name: Microsoft ISATAP Adapter
+    Driver is running.
+ROOT\MS_L2TPMINIPORT\0000
+    Name: WAN Miniport (L2TP)
+    Driver is running.
+HDAUDIO\FUNC_01&VEN_8086&DEV_2805&SUBSYS_80860101&REV_1000\4&391702B0&0&0301
+    Name: Intel(R) Display Audio
+    Driver is running.
+ROOT\LEGACY_NDISUIO\0000
+    Name: NDIS Usermode I/O Protocol
+    Driver is running.
+ROOT\*ISATAP\0001
+    Name: Microsoft ISATAP Adapter #2
+    Driver is running.
+ACPI\PNP0A08\0
+    Name: PCI bus
+    Driver is running.
+ACPI\ACPI0003\3&11583659&2
+    Name: Microsoft AC Adapter
+    Driver is running.
+USB\VID_8087&PID_0024\5&1A5CA5F&0&1
+    Name: Generic USB Hub
+    Driver is running.
+ROOT\MS_NDISWANBH\0000
+    Name: WAN Miniport (Network Monitor)
+    Driver is running.
+ROOT\ACPI_HAL\0000
+    Name: ACPI x64-based PC
+    Driver is running.
+ACPI\PNP0B00\4&16CFE3E0&0
+    Name: System CMOS/real time clock
+    Driver is running.
+ROOT\LEGACY_NDPROXY\0000
+    Name: NDProxy
+    Driver is running.
+ROOT\LEGACY_FVEVOL\0000
+    Name: Bitlocker Drive Encryption Filter Driver
+    Driver is running.
+PCI\VEN_1B21&DEV_1042&SUBSYS_10591043&REV_00\4&109ECB97&0&00E3
+    Name: ASMedia XHCI Controller
+    Driver is running.
+ROOT\LEGACY_TCPIP\0000
+    Name: TCP/IP Protocol Driver
+    Driver is running.
+PCI\VEN_8086&DEV_1C20&SUBSYS_1B431043&REV_05\3&11583659&2&D8
+    Name: High Definition Audio Controller
+    Driver is running.
+ACPI\ETD0101\4&16CFE3E0&0
+    Name: ELAN PS/2 Port Smart-Pad
+    Driver is running.
+ROOT\MS_NDISWANIP\0000
+    Name: WAN Miniport (IP)
+    Driver is running.
+ROOT\BLBDRIVE\0000
+    Name: File as Volume Driver
+    Driver is running.
+USB\VID_8087&PID_0024\5&23178771&0&1
+    Name: Generic USB Hub
+    Driver is running.
+ACPI\PNP0C01\2
+    Name: System board
+    Device is currently stopped.
+ROOT\LEGACY_HTTP\0000
+    Name: HTTP
+    Driver is running.
+ROOT\LEGACY_TCPIPREG\0000
+    Name: TCP/IP Registry Compatibility
+    Driver is running.
+ROOT\MS_NDISWANIPV6\0000
+    Name: WAN Miniport (IPv6)
+    Driver is running.
+ROOT\COMPOSITEBUS\0000
+    Name: Composite Bus Enumerator
+    Driver is running.
+ACPI\FIXEDBUTTON\2&DABA3FF&4
+    Name: ACPI Fixed Feature Button
+    Driver is running.
+ACPI\PNP0C02\1
+    Name: Motherboard resources
+    Device is currently stopped.
+ROOT\LEGACY_HWPOLICY\0000
+    Name: Hardware Policy Driver
+    Driver is running.
+ROOT\LEGACY_NETBT\0000
+    Name: NETBT
+    Driver is running.
+ACPI\PNP0C02\13
+    Name: Motherboard resources
+    Device is currently stopped.
+ROOT\LEGACY_TDX\0000
+    Name: NetIO Legacy TDI Support Driver
+    Driver is running.
+ROOT\COMPOSITE_BATTERY\0000
+    Name: Microsoft Composite Battery
+    Driver is running.
+ROOT\MS_PPPOEMINIPORT\0000
+    Name: WAN Miniport (PPPOE)
+    Driver is running.
+IDE\CDROMHL-DT-ST_DVDRAM_GT34N___________________AS00____\4&2EEA8366&0&0.1.0
+    Name: HL-DT-ST DVDRAM GT34N
+    Driver is running.
+PCI\VEN_8086&DEV_0104&SUBSYS_11471043&REV_09\3&11583659&2&00
+    Name: 2nd generation Intel(R) Core(TM) processor family DRAM Controller - 0104
+    Driver is running.
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_42_-__________INTEL(R)_PENTIUM(R)_CPU_B950_@_2.10GHZ\_1
+    Name: Intel(R) Pentium(R) CPU B950 @ 2.10GHz
+    Driver is running.
+PCI\VEN_8086&DEV_1C22&SUBSYS_11471043&REV_05\3&11583659&2&FB
+    Name: Intel(R) 6 Series/C200 Series Chipset Family SMBus Controller - 1C22
+    Device is currently stopped.
+ACPI\PNP0C02\2
+    Name: Motherboard resources
+    Device is currently stopped.
+ROOT\LEGACY_KSECDD\0000
+    Name: KSecDD
+    Driver is running.
+ROOT\LEGACY_TMACTMON\0000
+    Name: tmactmon
+    Driver is running.
+ROOT\LEGACY_AFD\0000
+    Name: Ancillary Function Driver for Winsock
+    Driver is running.
+ROOT\MS_PPTPMINIPORT\0000
+    Name: WAN Miniport (PPTP)
+    Driver is running.
+ACPI\PNP0C02\9
+    Name: Motherboard resources
+    Device is currently stopped.
+ROOT\LEGACY_NSIPROXY\0000
+    Name: NSI proxy service driver.
+    Driver is running.
+ROOT\LEGACY_KSECPKG\0000
+    Name: KSecPkg
+    Driver is running.
+ROOT\LEGACY_TMCOMM\0000
+    Name: tmcomm
+    Driver is running.
+ACPI\PNP0C04\4&16CFE3E0&0
+    Name: Numeric data processor
+    Device is currently stopped.
+ROOT\LEGACY_ASMMAP64\0000
+    Name: ASMMAP64
+    Driver is running.
+ROOT\MS_SSTPMINIPORT\0000
+    Name: WAN Miniport (SSTP)
+    Driver is running.
+PCI\VEN_8086&DEV_0106&SUBSYS_16521043&REV_09\3&11583659&2&10
+    Name: Intel(R) HD Graphics Family
+    Driver is running.
+ROOT\LEGACY_LLTDIO\0000
+    Name: Link-Layer Topology Discovery Mapper I/O Driver
+    Driver is running.
+PCI\VEN_8086&DEV_1C26&SUBSYS_11471043&REV_05\3&11583659&2&E8
+    Name: Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C26
+    Driver is running.
+ROOT\LEGACY_TMEVTMGR\0000
+    Name: tmevtmgr
+    Driver is running.
+ACPI\PNP0C09\4&16CFE3E0&0
+    Name: Microsoft ACPI-Compliant Embedded Controller
+    Driver is running.
+ROOT\LEGACY_ATAPI\0000
+    Name: IDE Channel
+    Driver is running.
+ROOT\RDP_KBD\0000
+    Name: Terminal Server Keyboard Driver
+    Driver is running.
+ROOT\LEGACY_NULL\0000
+    Name: Null
+    Driver is running.
+ROOT\LEGACY_TMTDI\0000
+    Name: Trend Micro TDI Driver
+    Driver is running.
+ACPI\PNP0C0A\0
+    Name: Microsoft ACPI-Compliant Control Method Battery
+    Driver is running.
+ROOT\RDP_MOU\0000
+    Name: Terminal Server Mouse Driver
+    Driver is running.
+ROOT\LEGACY_ATKWMIACPIIO\0000
+    Name: ATKWMIACPI Driver
+    Driver is running.
+ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_42_-__________INTEL(R)_PENTIUM(R)_CPU_B950_@_2.10GHZ\_2
+    Name: Intel(R) Pentium(R) CPU B950 @ 2.10GHz
+    Driver is running.
+ROOT\LEGACY_PCW\0000
+    Name: Performance Counters for Windows Driver
+    Driver is running.
+ROOT\LEGACY_MOUNTMGR\0000
+    Name: Mount Point Manager
+    Driver is running.
+ACPI\PNP0C0D\2&DABA3FF&4
+    Name: ACPI Lid
+    Driver is running.
+ROOT\SYSTEM\0000
+    Name: Plug and Play Software Device Enumerator
+    Driver is running.
+ROOT\LEGACY_VGASAVE\0000
+    Name: VgaSave
+    Driver is running.
+PCI\VEN_8086&DEV_1C03&SUBSYS_11471043&REV_05\3&11583659&2&FA
+    Name: Intel(R) Mobile Express Chipset SATA AHCI Controller
+    Driver is running.
+PCI\VEN_8086&DEV_1C2D&SUBSYS_11471043&REV_05\3&11583659&2&D0
+    Name: Intel(R) 6 Series/C200 Series Chipset Family USB Enhanced Host Controller - 1C2D
+    Driver is running.
+ROOT\LEGACY_BEEP\0000
+    Name: Beep
+    Driver is running.
+ROOT\LEGACY_PEAUTH\0000
+    Name: PEAUTH
+    Driver is running.
+ROOT\UMBUS\0000
+    Name: UMBus Root Bus Enumerator
+    Driver is running.
+ROOT\LEGACY_MPSDRV\0000
+    Name: Windows Firewall Authorization Driver
+    Driver is running.
+ACPI\PNP0C0E\2&DABA3FF&4
+    Name: ACPI Sleep Button
+    Driver is running.
+ROOT\LEGACY_VOLMGRX\0000
+    Name: Dynamic Volume Manager
+    Driver is running.
+IDE\DISKWDC_WD5000BPVT-80HXZT3__________________01.01A01\4&2EEA8366&0&0.0.0
+    Name: WDC WD5000BPVT-80HXZT3
+    Driver is running.
+ROOT\VDRVROOT\0000
+    Name: Microsoft Virtual Drive Enumerator Driver
+    Driver is running.
+ROOT\LEGACY_PSCHED\0000
+    Name: QoS Packet Scheduler
+    Driver is running.
+ACPI\PNP0C14\ATK
+    Name: Microsoft Windows Management Interface for ACPI
+    Driver is running.
+ROOT\LEGACY_VOLSNAP\0000
+    Name: Storage volumes
+    Driver is running.
+ROOT\VOLMGR\0000
+    Name: Volume Manager
+    Driver is running.
+UMB\UMB\1&841921D&0&PRINTERBUSENUMERATOR
+    Name: UMBus Enumerator
+    Driver is running.
+PCI\VEN_8086&DEV_1C10&SUBSYS_11471043&REV_B5\3&11583659&2&E0
+    Name: Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 1 - 1C10
+    Driver is running.
+PCI\VEN_8086&DEV_1C3A&SUBSYS_11471043&REV_04\3&11583659&2&B0
+    Name: Intel(R) Management Engine Interface
+    Driver is running.
+ACPI\THERMALZONE\THRM
+    Name: ACPI Thermal Zone
+    Driver is running.
+STORAGE\VOLUME\{A7D03D92-E01B-11E0-9887-806E6F6E6963}#0000000000100000
+    Name: Generic volume
+    Driver is running.
+ACPI\INT0800\4&16CFE3E0&0
+    Name: Intel(R) 82802 Firmware Hub Device
+    Device is currently stopped.
+ROOT\LEGACY_VWIFIFLT\0000
+    Name: Virtual WiFi Filter Driver
+    Driver is running.
+ROOT\LEGACY_CLFS\0000
+    Name: Common Log (CLFS)
+    Driver is running.
+ROOT\LEGACY_RDPCDD\0000
+    Name: RDPCDD
+    Driver is running.
+ACPI_HAL\PNP0C08\0
+    Name: Microsoft ACPI-Compliant System
+    Driver is running.
+USB\ROOT_HUB20\4&363B449A&0
+    Name: USB Root Hub
+    Driver is running.
+ROOT\LEGACY_CNG\0000
+    Name: CNG
+    Driver is running.
+ACPI\INT340E\2&DABA3FF&4
+    Name: Motherboard resources
+    Device is currently stopped.
+ROOT\LEGACY_WANARPV6\0000
+    Name: Remote Access IPv6 ARP Driver
+    Driver is running.
+ROOT\LEGACY_RDPENCDD\0000
+    Name: RDP Encoder Mirror Driver
+    Driver is running.
+ROOT\LEGACY_MSAHCI\0000
+    Name: msahci
+    Driver is running.
+PCI\VEN_8086&DEV_1C12&SUBSYS_11471043&REV_B5\3&11583659&2&E1
+    Name: Intel(R) 6 Series/C200 Series Chipset Family PCI Express Root Port 2 - 1C12
+    Driver is running.
+USB\ROOT_HUB20\4&3B47C1E0&0
+    Name: USB Root Hub
+    Driver is running.
+PCI\VEN_8086&DEV_1C49&SUBSYS_11471043&REV_05\3&11583659&2&F8
+    Name: Intel(R) HM65 Express Chipset Family LPC Interface Controller - 1C49
+    Driver is running.
+ACPI\INT3F0D\4&16CFE3E0&0
+    Name: Motherboard resources
+    Device is currently stopped.
+ROOT\LEGACY_WDF01000\0000
+    Name: Kernel Mode Driver Frameworks service
+    Driver is running.
+ROOT\LEGACY_RDPREFMP\0000
+    Name: Reflector Display Driver used to gain access to graphics data
+    Driver is running.
+STORAGE\VOLUME\{A7D03D92-E01B-11E0-9887-806E6F6E6963}#0000000640100000
+    Name: Generic volume
+    Driver is running.
+ROOT\LEGACY_DISCACHE\0000
+    Name: System Attribute Cache
+    Driver is running.
+DISPLAY\AUO26EC\4&13A5A983&0&UID67568640
+    Name: Generic PnP Monitor
+    Driver is running.
+USB\VID_040E&PID_0100&ASMEDIAUSBD_HUB\5&16B97BA6&0&0
+    Name: USB Root Hub
+    Driver is running.
+ACPI\PNP0000\4&16CFE3E0&0
+    Name: Programmable interrupt controller
+    Device is currently stopped.
+131 matching device(s) found.
